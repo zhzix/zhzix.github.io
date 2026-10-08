@@ -1,0 +1,59 @@
+# Site settings
+title: Zixiao Zhang
+name: Zixiao Zhang
+description: >-
+  Zixiao Zhang, Ph.D. candidate in computational geophysics. Numerical modeling
+  of seismic and acoustic waves, full-waveform inversion, ultrasonic imaging.
+url: "https://zhzix.github.io"
+baseurl: ""
+locale: en-US
+minimal_mistakes_skin: default
+search: true
+atom_feed:
+  hide: true
+
+# Build settings
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+remote_theme: mmistakes/minimal-mistakes
+permalink: /:categories/:title/
+timezone: Asia/Shanghai
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Sidebar shown on every page
+author:
+  name: "Zixiao Zhang"
+  # avatar: "/assets/images/photo.jpg"   # add a photo to assets/images/ and uncomment
+  bio: "Ph.D. candidate in computational geophysics"
+  location: "China University of Petroleum (East China) · Institute of Acoustics, CAS"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:zhangzixiao01@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/zixiao-zhang-337037326"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zhzix"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zhzix"
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
