@@ -30,7 +30,7 @@ plugins:
 # Sidebar shown on every page
 author:
   name: "Zixiao Zhang"
-  # avatar: "/assets/images/photo.jpg"   # add a photo to assets/images/ and uncomment
+  avatar: "/assets/images/photo.jpg"
   bio: "Ph.D. candidate in computational geophysics"
   location: "China University of Petroleum (East China) · Institute of Acoustics, CAS"
   links:

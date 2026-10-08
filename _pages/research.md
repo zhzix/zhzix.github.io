@@ -16,3 +16,7 @@ A cylindrical-Cartesian overset FDTD scheme for efficient acoustic borehole mode
 ## [Imaging and inversion]({{ "/research/imaging-inversion/" | relative_url }})
 
 Joint full-waveform inversion with robust misfit functions, and 3-D ultrasonic phased-array imaging of rock samples.
+
+## [Spectral-element modeling and HPC software]({{ "/research/computing/" | relative_url }})
+
+Spectral-element acoustic simulation, and a Kokkos and pybind11 framework that runs the same code on different GPUs and CPUs.

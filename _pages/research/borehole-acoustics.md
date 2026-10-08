@@ -8,7 +8,10 @@ Since September 2023 · School of Geosciences, China University of Petroleum (Ea
 
 ## Overview
 
-I developed a cylindrical-Cartesian overset FDTD scheme for efficient acoustic borehole modeling.
+A borehole is a small cylindrical structure inside a much larger formation. I developed a cylindrical-Cartesian overset FDTD scheme for this setting: a cylindrical-coordinate grid follows the borehole and overlaps a Cartesian grid for the surrounding formation. The scheme simulates wavefields excited by monopole and dipole sources.
+
+![Overset grid model and wavefields for monopole and dipole sources]({{ "/assets/images/research/borehole.jpg" | relative_url }})
+*Left to right: the overset grid model, the wavefield excited by a monopole source, and the wavefield excited by a dipole source.*
 
 ## Publications
 
