@@ -9,10 +9,6 @@ I work on efficient numerical modeling of seismic and acoustic waves, with a foc
 
 I am a Ph.D. candidate at China University of Petroleum (East China), advised by Prof. Jianping Huang, and a joint Ph.D. student at the Institute of Acoustics, Chinese Academy of Sciences, advised by Dr. Peng Yong. I am also interested in nonlinear geophysical inverse problems, including full-waveform inversion and ultrasonic imaging.
 
-![Schematic of an overset grid beneath surface topography]({{ "/assets/images/overset-grid.svg" | relative_url }}){: .align-center}
-*Schematic of an overset grid: a surface-following grid overlaps a background Cartesian grid beneath topography.*
-{: .text-center .small}
-
 ## Research
 
 - [Seismic wave modeling with topography]({{ "/research/overset-seismic/" | relative_url }}): an overset Virieux–Lebedev grid FDTD scheme for 2-D and 3-D simulation.
