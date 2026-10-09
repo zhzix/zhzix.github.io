@@ -16,6 +16,6 @@ permalink: /cv/
 
 ## Skills
 
-**Programming:** C/C++, Fortran, CUDA, MPI, Python, MATLAB, pybind11, LaTeX, Unix
+**Programming:** C/C++, Fortran, Julia, CUDA, MPI, Python, MATLAB, pybind11, LaTeX, Unix
 
 **Languages:** Chinese (native), English (fluent)

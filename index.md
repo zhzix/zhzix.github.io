@@ -5,9 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-I work on efficient numerical modeling of seismic and acoustic waves, with a focus on overset-grid finite-difference time-domain (FDTD) methods.
+I work on efficient numerical modeling of seismic and acoustic waves, with a focus on overset-grid finite-difference time-domain (FDTD) methods. I am also interested in nonlinear geophysical inverse problems, including full-waveform inversion and ultrasonic imaging.
 
-I am a Ph.D. candidate at China University of Petroleum (East China), advised by Prof. Jianping Huang, and a joint Ph.D. student at the Institute of Acoustics, Chinese Academy of Sciences, advised by Dr. Peng Yong. I am also interested in nonlinear geophysical inverse problems, including full-waveform inversion and ultrasonic imaging.
+I am a Ph.D. candidate at China University of Petroleum (East China), advised by Prof. Jianping Huang, and a joint Ph.D. student at the Institute of Acoustics, Chinese Academy of Sciences, advised by Dr. Peng Yong.
 
 ## Research
 
