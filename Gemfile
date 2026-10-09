@@ -1,12 +1,18 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# For local preview only. GitHub Pages ignores this file and uses its own Jekyll.
+gem "jekyll", "~> 4.4"
 
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-remote-theme"
   gem "jekyll-sitemap"
   gem "jekyll-include-cache"
 end
+
+# No longer bundled with recent Ruby versions
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"
+gem "webrick"

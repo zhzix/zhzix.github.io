@@ -13,7 +13,8 @@ I am a Ph.D. candidate at China University of Petroleum (East China), advised by
 
 - [Seismic wave modeling with topography]({{ "/research/overset-seismic/" | relative_url }}): an overset Virieux–Lebedev grid FDTD scheme for 2-D and 3-D simulation.
 - [Acoustic borehole modeling]({{ "/research/borehole-acoustics/" | relative_url }}): a cylindrical-Cartesian overset FDTD scheme.
-- [Imaging and inversion]({{ "/research/imaging-inversion/" | relative_url }}): joint full-waveform inversion and ultrasonic imaging of rock samples.
+- [Full-waveform inversion]({{ "/research/fwi/" | relative_url }}): inversion of the SEG 2014 Chevron benchmark dataset.
+- [Ultrasonic imaging of rock samples]({{ "/research/ultrasonic-imaging/" | relative_url }}): 3-D phased-array imaging of laboratory rock blocks.
 - [Spectral-element modeling and HPC software]({{ "/research/computing/" | relative_url }}): acoustic spectral-element simulation and a Kokkos and pybind11 computing framework.
 
 ## Recent publications

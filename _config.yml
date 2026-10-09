@@ -24,6 +24,7 @@ include:
   - _pages
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-include-cache
 

@@ -13,9 +13,13 @@ An overset Virieux–Lebedev grid FDTD scheme for efficient 2-D and 3-D seismic 
 
 A cylindrical-Cartesian overset FDTD scheme for efficient acoustic borehole modeling.
 
-## [Imaging and inversion]({{ "/research/imaging-inversion/" | relative_url }})
+## [Full-waveform inversion]({{ "/research/fwi/" | relative_url }})
 
-Joint full-waveform inversion with robust misfit functions, and 3-D ultrasonic phased-array imaging of rock samples.
+Full-waveform inversion of the SEG 2014 Chevron benchmark dataset.
+
+## [Ultrasonic imaging of rock samples]({{ "/research/ultrasonic-imaging/" | relative_url }})
+
+3-D ultrasonic phased-array imaging of laboratory rock blocks.
 
 ## [Spectral-element modeling and HPC software]({{ "/research/computing/" | relative_url }})
 
