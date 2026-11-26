@@ -4,18 +4,9 @@ permalink: /research/computing/
 toc: true
 ---
 
-## Spectral-element acoustic modeling
+## Spectral-element wave modeling
 
-Besides finite differences, I have implemented acoustic wave simulation with the spectral-element method, using a high-order geometric representation of the mesh.
-
-![Spectral-element mesh with high-order geometry]({{ "/assets/images/research/sem-mesh.jpg" | relative_url }}){: .align-center}
-*Mesh with high-order geometric representation.*
-
-![P-wave velocity and density models]({{ "/assets/images/research/sem-models.jpg" | relative_url }})
-*P-wave velocity model (left) and density model (right).*
-
-![Wavefield snapshots]({{ "/assets/images/research/sem-snapshots.jpg" | relative_url }})
-*Pressure wavefield snapshots at 0.04 s (left) and 0.08 s (right).*
+Besides finite differences, I have implemented wave simulation with the spectral-element method, using a high-order geometric representation of the mesh. The solver covers acoustic, elastic and TTI pseudo-acoustic wave equations.
 
 ## Performance-portable computing framework
 

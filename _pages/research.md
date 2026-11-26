@@ -54,8 +54,7 @@ Full-waveform inversion of the SEG 2014 Chevron benchmark dataset.
 
 ## [Spectral-element modeling and HPC software]({{ "/research/computing/" | relative_url }})
 
-Spectral-element acoustic simulation, and a Kokkos and pybind11 framework that runs the same code on different GPUs and CPUs.
+Spectral-element simulation of acoustic, elastic and TTI pseudo-acoustic waves, and a Kokkos and pybind11 framework that runs the same code on different GPUs and CPUs.
 
   </div>
-  <a class="research-item__thumb" href="{{ "/research/computing/" | relative_url }}"><img src="{{ "/assets/images/research/thumb-computing.jpg" | relative_url }}" alt="Spectral-element pressure wavefield snapshot"></a>
 </div>
